@@ -1,4 +1,4 @@
-# Linked Narratives
+# Linked Narratives 🌙
 
 A multi‑page, cloud‑themed web presentation of "Sweet Dreams" lyrics, styled with Google Fonts and CSS. Each page reveals a line of the song against a dynamic clouds background.
 
