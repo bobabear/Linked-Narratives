@@ -1,0 +1,23 @@
+div{
+	text-align: center;
+	padding-top: 250px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+p{
+	font-family: "Coiny", system-ui;
+	color: #FFFFFF;
+	font-size: 85px;
+}
+
+a{
+	color: #87cefa;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #f9d994;
+	text-decoration: none;
+	transition: color 0.80s ease;
+}
